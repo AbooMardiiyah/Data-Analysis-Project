@@ -5,7 +5,8 @@ NB: This is a template to make documentation process easy. You can remove the `T
 Analyze Supermarket Data Across the Country - Company XYZ
 Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the country recorded sales information for 3 months, to help the company understand sales trends and determine its growth, as the rise of supermarkets competition is seen.
 
-You will apply learnings to analyse the dataset in the data folder, and the description of each feature can be found in this link Click here
+You will apply learnings to analyse the dataset in the data folder, and the description of each feature can be found in this link https://docs.google.com/presentation/d/1DhTuULxugL2Yk9KuO59LtF2tEBVfuw5qYm7plsKH460/edit?usp=sharing
+
 # Project Steps
 Step 1 - Loading the Dataset
 The datasets are loaded using the `glob()` function and combined together using the `pd.concat()` method and finally read as a single dataframe using the `pd.read_csv()` method.
