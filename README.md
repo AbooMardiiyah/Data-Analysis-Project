@@ -50,7 +50,7 @@ below are some of the insights deduced from the analysis made:
 * Branch B(Abuja) has the lowest Rating
 
 *  Fashion accessories has the highest Unit price followed by Food and beverages
-* 
+ 
 *   Home and lifestyle has the highest demand in Branch A, health and beauty has the highest demand in Branch B and finally for Branch C, the product line with the highest demand is Food and Beverages
 
 *   The varying difference in demand in various branches indicates differences in general taste and preference of the people in that region
